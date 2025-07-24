@@ -1,0 +1,14 @@
+{
+	"name": "@mancuoj/renovate-config",
+  "author": "mancuoj <mancuoj@gmail.com>",
+  "license": "MIT",
+  "scripts": {
+    "test": "renovate-config-validator ./default.json"
+  },
+  "files": [
+    "default.json"
+  ],
+	"dependencies": {
+		"renovate": "^41.43.0"
+	}
+}
