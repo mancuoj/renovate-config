@@ -9,6 +9,7 @@ Add the following to your renovate config files:
 ```json
 {
   "extends": ["github>mancuoj/renovate-config"],
-  "automerge": true
+  "automerge": true,
+  "ignoreTests": true
 }
 ```
