@@ -1,6 +1,6 @@
-# @mancuoj/renovate-config
+# Renovate Config
 
-Shared Renovate config for @mancuoj's projects.
+Shared renovate config for @mancuoj's projects.
 
 ## Usage
 

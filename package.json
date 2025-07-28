@@ -1,5 +1,5 @@
 {
-	"name": "@mancuoj/renovate-config",
+  "name": "@mancuoj/renovate-config",
   "author": "mancuoj <mancuoj@gmail.com>",
   "license": "MIT",
   "scripts": {
@@ -8,7 +8,7 @@
   "files": [
     "default.json"
   ],
-	"dependencies": {
-		"renovate": "^41.43.0"
-	}
+  "dependencies": {
+    "renovate": "^41.43.0"
+  }
 }
